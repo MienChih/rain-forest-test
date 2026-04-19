@@ -1077,7 +1077,7 @@
                                       "fill": {
                                         "type": "image",
                                         "enabled": true,
-                                        "url": "",
+                                        "url": "./Images/Avatar.png",
                                         "mode": "fill"
                                       },
                                       "width": "fill_container",
@@ -3938,7 +3938,7 @@
                                               "fill": {
                                                 "type": "image",
                                                 "enabled": true,
-                                                "url": "",
+                                                "url": "./Images/Avatar.png",
                                                 "mode": "fill"
                                               },
                                               "width": 128,

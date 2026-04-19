@@ -113,6 +113,7 @@ body {
   grid-template-columns: auto minmax(0, 1fr);
   gap: var(--space-xl);
   align-items: flex-start;
+  width: 100%;
 }
 
 .profile-panel__avatar {
@@ -155,7 +156,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: var(--space-m);
-  max-width: 520px;
+  width: 100%;
 }
 
 .form-row {
